@@ -159,6 +159,6 @@ class FlxVideo extends FlxBasic {
 				finishCallback();
 			}
 		}
-	#end
-	#end
+	#if android
+                 AddA+B("to skip the video when stuck//A to skip videohx\nPvideo B+to go exit/
 }
